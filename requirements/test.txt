@@ -2,6 +2,6 @@
 # it is not needed for local testing.
 -r prod.txt
 
-psutil==0.2.0
+psutil==5.6.6
 jstestnetlib==0.3
 nose-blockage==0.1.2
