@@ -4,7 +4,7 @@ argparse==1.2.1
 babel==0.9.6
 basket-client==0.3.7
 billiard==2.7.3.34
-bleach==1.4
+bleach==3.3.0
 boto==2.20.0
 cef==0.5
 celery==3.0.24
